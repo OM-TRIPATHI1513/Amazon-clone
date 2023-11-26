@@ -1,5 +1,5 @@
 # Amazon-clone
-# React as Frontend framework, Ecommerce.js in backend and using material UI
+# This project is totally based on React , commerce.js and material UI, which is used to manage Ecommerce project
 
 ![Screenshot (267)](https://github.com/OM-TRIPATHI1513/Amazon-clone/assets/90430815/42ba0244-f1eb-4fde-abc3-d089d76c6cea)
 ![Screenshot (268)](https://github.com/OM-TRIPATHI1513/Amazon-clone/assets/90430815/38f3637f-71b1-4a88-8bde-f7cd29ee4209)
